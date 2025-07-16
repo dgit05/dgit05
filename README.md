@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Debosmita Chowdhury
 
-🚀 Tech Enthusiast | 🤖 AI Developer | 🐍 Python | 🧠 Machine Learning | 📈 Data Science 
+🚀 Tech Enthusiast | 🤖 AI Developer | 🐍 Python | 🧠 Machine Learning | 📈 Data Science <br>
 Building intelligent apps with code and curiosity.
 
 ---
