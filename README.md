@@ -4,8 +4,14 @@
   Hey there! 👋 I'm Debosmita Chowdhury
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7768E&center=true&vCenter=true&width=1000&lines=🚀+Tech+Enthusiast+|+🤖+AI+Developer+|+🐍+Python+|+🧠+Machine+Learning+|+📈+Data+Science;Building+intelligent+apps+with+code+and+curiosity." alt="Typing SVG" />
+<p>
+  <strong>
+    🚀 Tech Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🐍 Pythonista &nbsp;|&nbsp; 🧠 Machine Learning Lover &nbsp;|&nbsp; 📊 Data Science Explorer
+  </strong>
+</p>
+
+<p>
+  Building intelligent apps with code and curiosity.
 </p>
 
 
