@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7768E&center=true&vCenter=true&width=900&lines=🚀+Tech+Enthusiast+|+🤖+AI+Developer+|+🐍+Python+|+🧠+Machine+Learning+|+📈+Data+Science;Building+intelligent+apps+with+code+and+curiosity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7768E&center=true&vCenter=true&width=1000&lines=🚀+Tech+Enthusiast+|+🤖+AI+Developer+|+🐍+Python+|+🧠+Machine+Learning+|+📈+Data+Science;Building+intelligent+apps+with+code+and+curiosity." alt="Typing SVG" />
 </p>
+
 
 ---
 
