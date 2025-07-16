@@ -5,9 +5,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🚀%20Tech%20Enthusiast%20%7C%20🤖%20AI%20Developer%20%7C%20🐍%20Python%20%7C%20🧠%20Machine%20Learning%20%7C%20📈%20Data%20Science;Building%20intelligent%20apps%20with%20code%20and%20curiosity.&center=true&vCenter=true&color=F7768E&width=1000&height=45&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7768E&center=true&vCenter=true&width=900&lines=🚀+Tech+Enthusiast+|+🤖+AI+Developer+|+🐍+Python+|+🧠+Machine+Learning+|+📈+Data+Science;Building+intelligent+apps+with+code+and+curiosity." alt="Typing SVG" />
 </p>
-
 
 ---
 
