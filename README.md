@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer+💡+|+Python+Enthusiast+🐍+|+Machine+Learning+Lover+🧠;Tech+Explorer+🚀&center=true&vCenter=true&color=F7768E&width=500&height=40&size=22&pause=1000"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer+💡+|+Python+Enthusiast+🐍+|+Machine+Learning+Lover+🧠;Tech+Explorer+🚀&center=true&vCenter=true&color=F7768E&width=600&height=45&size=22&pause=1000" />
 </p>
+
 
 ---
 
