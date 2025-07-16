@@ -38,7 +38,7 @@ Building intelligent apps with code and curiosity.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgit05t&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dgit05&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgit05&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgit05&layout=compact&theme=radical" />
 </p>
