@@ -1,7 +1,7 @@
 <!-- Profile README for Debosmita Chowdhury -->
 
-<h1 align="center">
-  Hey there! 👋 I'm <span style="color:#ff4b4b;">Debosmita Chowdhury</span>
+<h1>
+  Hey there! 👋 I'm Debosmita Chowdhury
 </h1>
 
 <p align="center">
