@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Building intelligent apps with code and curiosity.
+  Building intelligent apps with code and curiosity🧠🔍👩‍💻
 </p>
 
 
