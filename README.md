@@ -25,10 +25,12 @@ Building intelligent apps with code and curiosity.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikrout&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikrout&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrout&layout=compact&theme=radical" />
+</p>
 
 
 
