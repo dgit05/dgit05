@@ -13,7 +13,7 @@ Building intelligent apps with code and curiosity.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
-### 🧠Languages & Tools
+### *🧠Languages & Tools:*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -24,7 +24,7 @@ Building intelligent apps with code and curiosity.
 ![AI](https://img.shields.io/badge/AI-%F0%9F%A4%96-lightgrey?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Data Structures & Algorithms
+### *📊Data Structures & Algorithms:*
 ![DSA](https://img.shields.io/badge/DSA-%F0%9F%93%90-007ec6?style=for-the-badge)
 
 ---
