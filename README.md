@@ -32,7 +32,6 @@
  *📊 Data Structures & Algorithms:*<br>
 ![DSA](https://img.shields.io/badge/DSA-%F0%9F%93%90-007ec6?style=for-the-badge)
 
----
 
  *⚙ Tools & Environment:*  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
