@@ -7,7 +7,7 @@ Building intelligent apps with code and curiosity.
 
 ## 🛠️ Tech Stack
 
-*🌐 Frontend:*  
+### *🌐 Frontend:*  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -19,7 +19,7 @@ Building intelligent apps with code and curiosity.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 
-*🤖 AI & Scripting:*  
+### *🤖 AI & Scripting:*  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-%F0%9F%A4%96-lightgrey?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -29,7 +29,7 @@ Building intelligent apps with code and curiosity.
 
 ---
 
-*⚙ Tools & Environment:*  
+### *⚙ Tools & Environment:*  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
