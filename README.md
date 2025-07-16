@@ -36,9 +36,6 @@
 ![AI](https://img.shields.io/badge/AI-%F0%9F%A4%96-lightgrey?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
- *📊 Data Structures & Algorithms:*<br>
-![DSA](https://img.shields.io/badge/DSA-%F0%9F%93%90-007ec6?style=for-the-badge)
-
 
  *⚙ Tools & Environment:*  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
