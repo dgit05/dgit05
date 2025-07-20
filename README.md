@@ -1,5 +1,4 @@
 <!-- Profile README for Debosmita Chowdhury -->
-![Header](./github-header-image.png)
 <h1>
   Hey there! 👋 I'm Debosmita Chowdhury
 </h1>
