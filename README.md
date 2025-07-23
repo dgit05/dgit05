@@ -5,7 +5,7 @@
 
 <p>
   <strong>
-    🚀 Tech Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🐍 Pythonista &nbsp;|&nbsp; 🧠 Machine Learning Lover &nbsp;|&nbsp; 📊 Data Science Explorer
+    🚀 Tech Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🐍 Python&nbsp;|&nbsp; 🧠 Machine Learning Lover &nbsp;|&nbsp; 📊 Data Science Explorer
   </strong>
 </p>
 
