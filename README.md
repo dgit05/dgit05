@@ -47,12 +47,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgit05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgit05&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgit05&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dgit05&show_icons=true&count_private=true&include_all_commits=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgit05&layout=compact&theme=react&hide=php,jupyter%20notebook" />
 </p>
 
 ---
