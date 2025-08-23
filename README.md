@@ -8,8 +8,7 @@
   Hey there! 👋 I'm Debosmita Chowdhury
 </h1><br>
 <h1 align="left">💫 About Me: </h1>
-<img align="right" alt="Coding" width="200" height="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
-<br><br>
+
 <p>
   <strong>
     🤖 AI & ML enthusiast | 💻 Code explorer | 🌍 Lifelong learner<br>
@@ -22,7 +21,7 @@
 
 
 
-
+---
 
 ## 🛠️ Tech Stack
 
