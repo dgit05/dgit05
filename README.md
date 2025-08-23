@@ -17,7 +17,6 @@
     ☕ Powered by curiosity (and coffee)
   </strong>
 </p>
-<br>
 
 
 
