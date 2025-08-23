@@ -6,7 +6,7 @@
 
 <h1>
   Hey there! 👋 I'm Debosmita Chowdhury
-</h1>
+</h1><br><br>
 
 <p>
   <strong>
@@ -18,9 +18,7 @@
   </strong>
 </p>
 
-<p>
-  Building intelligent apps with code and curiosity🧠🔍👩‍💻
-</p>
+
 
 
 ---
