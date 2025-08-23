@@ -6,7 +6,7 @@
 
 <h1>
   Hey there! 👋 I'm Debosmita Chowdhury
-</h1><br><br>
+</h1><br>
 
 <p>
   <strong>
@@ -17,7 +17,7 @@
     ☕ Powered by curiosity (and coffee)
   </strong>
 </p>
-
+<br>
 
 
 
