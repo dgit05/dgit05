@@ -10,7 +10,11 @@
 
 <p>
   <strong>
-    🚀 Tech Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🐍 Python&nbsp;|&nbsp; 🧠 Machine Learning Lover &nbsp;|&nbsp; 📊 Data Science Explorer
+    🤖 AI & ML enthusiast | 💻 Code explorer | 🌍 Lifelong learner<br>
+    🌱 Currently exploring Machine Learning, NLP, Data Science<br>
+    💡 Love building practical, impactful, and scalable solutions<br>
+    ✨ Turning ideas into projects and projects into solutions<br>
+    ☕ Powered by curiosity (and coffee)
   </strong>
 </p>
 
