@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+room!;Coding+late+at+night...;Always+learning+new+things!">
 </p>
 
-
+<img align="right" alt="Coding" width="200" height="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 <h1>
   Hey there! 👋 I'm Debosmita Chowdhury
 </h1><br>
