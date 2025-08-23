@@ -1,4 +1,8 @@
 <!-- Profile README for Debosmita Chowdhury -->
+<p align="center">
+  <img src="https://i.imgur.com/XXXXXXX.gif" alt="Coding Animation" width="600px">
+</p>
+
 <h1>
   Hey there! 👋 I'm Debosmita Chowdhury
 </h1>
